@@ -9,18 +9,19 @@ Requirements
 3. Gcc >= 4.8
 4. Boost = 1.58
 
-Features
----
-1. 
-2. 
-3. 
-4. 
 
 Usage
 ---
 1. Compile, `cd ./script` and run `./compile_train.sh` and `./compile_test.sh`
-2. Training, `cd ./work` and run `./train_nmt.s`.
+2. Training, `cd ./work` and run `./train_nmt.sh`.
 3. Training, `cd ./work` and run `./test_nmt.sh`.
+
+Development Team
+---
+Project leaders: Jiajun Zhang
+
+Project members: Long Zhou, Yang Zhao, and Yining Wang
+
 
 Contact
 ---
