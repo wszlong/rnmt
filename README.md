@@ -12,9 +12,9 @@ Requirements
 
 Usage
 ---
-1. Compile, `cd ./script` and run `./compile_train.sh` and `./compile_test.sh`
+1. Compiling, `cd ./script` and run `./compile_train.sh` and `./compile_test.sh`
 2. Training, `cd ./work` and run `./train_nmt.sh`.
-3. Training, `cd ./work` and run `./test_nmt.sh`.
+3. Infenrence, `cd ./work` and run `./test_nmt.sh`.
 
 Development Team
 ---
