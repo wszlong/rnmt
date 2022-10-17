@@ -16,6 +16,7 @@ Usage
 2. Training, `cd ./work` and run `./train_nmt.sh`.
 3. Infenrence, `cd ./work` and run `./test_nmt.sh`.
 
+
 Development Team
 ---
 Project leaders: Jiajun Zhang
