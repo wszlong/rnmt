@@ -1,0 +1,3 @@
+[submodule "SpeechLM/fairseq"]
+	path = SpeechLM/fairseq
+	url = https://github.com/facebookresearch/fairseq.git
