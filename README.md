@@ -2,6 +2,7 @@
 A C++/CUDA toolkit for neural machine translation (RNN-Based NMT) across multiple GPUs
 
 
+
 Requirements
 ---
 1. CUDA >= 7.5
