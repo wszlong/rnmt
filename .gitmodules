@@ -4,3 +4,6 @@
 [submodule "fairseq"]
 	path = fairseq
 	url = https://github.com/facebookresearch/fairseq.git
+[submodule "SpeechLM/--force"]
+	path = SpeechLM/--force
+	url = https://github.com/facebookresearch/fairseq.git
